@@ -6,3 +6,5 @@ Quick Markdown Overview
 - write bullet list with '-'
 - create **bold texts** with '**'
 - include [links](https://embl.de) with [] and ()
+
+**exercise** to commit changes to the same file
